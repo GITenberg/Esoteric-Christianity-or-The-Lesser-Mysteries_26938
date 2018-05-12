@@ -1,0 +1,39 @@
+_repo: Esoteric-Christianity-or-The-Lesser-Mysteries_26938
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Besant, Annie Wood
+    - Wood, Annie
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: The object of this book is to suggest certain lines of thought as to
+  the deep truths underlying Christianity, truths generally overlooked, and only too
+  often denied. The generous wish to share with all what is precious, to spread broadcast
+  priceless truths, to shut out none from the illumination of true knowledge, has
+  resulted in a zeal without discretion that has vulgarised Christianity, and has
+  presented its teachings in a form that often repels the heart and alienates the
+  intellect. The command to "preach the Gospel to every creature"?though admittedly
+  of doubtful authenticity?has.
+gutenberg_issued: '2008-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theosophy'
+- !lcc 'BP'
+- !lcsh 'Christianity -- Miscellanea'
+- !lcsh 'Mysticism'
+title: Esoteric Christianity, or The Lesser Mysteries
+url: http://www.gutenberg.org/ebooks/26938
